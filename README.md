@@ -1,0 +1,2 @@
+# HFAgentsCourse
+HuggingFace Agents Course
