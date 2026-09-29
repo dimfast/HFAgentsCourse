@@ -1,0 +1,5 @@
+Stop ollama
+    taskkill /f /im ollama*
+
+Start ollama
+    ollama serve
